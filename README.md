@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ro2alive
 - 👀 I’m interested in bookmarklets that either have a useful of exploit purpose.
-- 🌱 I’m currently learning java and maybe want to start on HTML 5.
+- 🌱 I’m currently learning Javascript and maybe want to start on HTML 5.
 - 💞️ I’m looking to collaborate on code that deals with bookmarklets of school exploits.
 - 📫 How to reach me: rodogg582@gmail.com
 
